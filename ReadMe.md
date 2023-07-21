@@ -47,7 +47,8 @@ To compile the code, click on the "Compiler" tab in the left-hand sidebar. Make 
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Solidity" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it. First copy your address at the top below the "Account" then paste it on "balance". Click on the mint section paste your id and add value, and then click on the "Burn" section paste your id and click the button contract in the left-hand sidebar to burn the value. Once you done it all it will apear the result of your code
+You can interact with the contract after it has been deployed. Make a copy of your address and paste it on "balance" after first pasting it underneath "Account" at the top of the page. To add value, click the "Mint" area and enter your ID. To burn the value, click the "Burn" section, enter your ID, and then click the contract button in the left-hand sidebar. The outcome of your code will appear once you have completed everything.
+
 ## Authors
 
 Metacrafter Anthonette
